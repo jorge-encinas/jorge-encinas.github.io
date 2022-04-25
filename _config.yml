@@ -1,20 +1,2 @@
 theme: jekyll-theme-minimal
 title: "Jorge Encinas's Personal Website"
-name: "Jorge Encinasa"
-output_dir: "."
-navbar:
-  title: "Jorge Encinas"
-  left:
-    - text: "Research"
-      href: research.html 
-  right:
-    - icon: fa-envelope fa-lg
-      href: mailto:jencinas@g.harvard.edu
-    - icon: fa-google
-      href: https://scholar.google.com/citations?user=uoVqG18AAAAJ&hl=en
-    - icon: fa-github fa-lg
-      href: https://github.com/jorge-encinas
-output:
-  html_document:
-    theme: paper
-    css: 'styles.css'
