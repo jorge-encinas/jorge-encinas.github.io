@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jorge Encinas"
+title                    : "Jorge E. Encinas"
 title_separator          : "-"
-name                     : &name "Jorge Encinas"
+name                     : &name "Jorge E. Encinas"
 description              : &description "PhD student at the Harvard Graduate School of Education"
 url                      : https://jorge-encinas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jorge Encinas"
+  name             : "Jorge E. Encinas"
   avatar           : "profile.png"
   bio              : "PhD Student at the Harvard Graduate School of Education"
   location         : "Cambridge, MA"
