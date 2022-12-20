@@ -13,7 +13,7 @@ Education
 ======
 * B.A. in Economics, Brigham Young University, 2015
 * M.P.P. in Education Policy, Vanderbilt University, 2018
-* Ph.D in Education, GitHub University, 2024 (expected)
+* Ph.D in Education, Harvard University, 2024 (expected)
 
 Work experience
 ======
