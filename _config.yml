@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jorge E. Encinas"
 title_separator          : "-"
 name                     : &name "Jorge E. Encinas"
-description              : &description "PhD student at the Harvard Graduate School of Education"
+description              : &description "PhD student at the Harvard University"
 url                      : https://jorge-encinas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jorge-encinas/jorge-encinas.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jorge E. Encinas"
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   bio              : "PhD Student at the Harvard Graduate School of Education"
   location         : "Cambridge, MA"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jorge-encinas-36995982/"
   orcid            : 
   pinterest        :
   soundcloud       :
