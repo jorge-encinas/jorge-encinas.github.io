@@ -1,11 +1,9 @@
 ---
-permalink: /research/
+layout: archive
 title: "Research"
 excerpt: "Research"
-author_profile: false
-redirect_from: 
-  - /research/
-  - /research.html
+author_profile: true
+
 ---
 
 ### Working Papers
