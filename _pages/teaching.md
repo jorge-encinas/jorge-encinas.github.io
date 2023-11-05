@@ -1,11 +1,9 @@
 ---
-permalink: /
-title: "Teaching Experience"
-excerpt: "Teaching Experience"
+layout: archive
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
-redirect_from: 
-  - /teaching/  
-  - /teaching.html
+
 ---
 
 ## Lead Instructor, Harvard Gradaute School of Education (Graduate Students)
