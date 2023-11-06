@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I'm a PhD Student in education policy and program evaluation at Harvard University. I study the intersection of higher education policy and other policy areas, such as immigration, transportation, and health care policy. I'm especially interested in researching how these intersecting policy areas effect the educational and labor market outcomes of low-income, minority, and immigrant individuals. My theoretical and methodological expertice is economics and causal inference.
+Welcome to my website! I'm a PhD Student in education policy and program evaluation at Harvard University. I study the intersection of higher education policy and other policy areas, such as immigration, transportation, and health care policy. I'm especially interested in researching how these intersecting policy areas effect the educational and labor market outcomes of low-income, minority, and immigrant individuals. I studies these areas through the lens of economics and causal inference.
 
 I'm a doctoral research at the [Harvard Project on Workforce](https://www.pw.hks.harvard.edu/team), where I work on researching the workforce development sector and how it interacts with higher education. Before Harvard, I obtained a Masters in Public Policy from Vanderbilt University, where I also worked as an analyst at Vanderbilt's Department of Health Policy. I also hold a bachelor's degree in economics from Brigham Young University.
 
