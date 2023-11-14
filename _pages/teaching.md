@@ -16,11 +16,12 @@ HGSE A217A: Economics of Higher Education: Access, Outcomes, and Competition (Sp
 
 ## Teaching Fellow (Graduate Students)
 
-HGSE S052: Intermediate & Advanced Statistical Methods for Applied Education Research
-Teaching Fellow for Andrew Ho, Spring 2021
+HGSE S052: Intermediate & Advanced Statistical Methods for Applied Education Research *Teaching Fellow for Andrew Ho, Spring 2021*
 
-HGSE A701: Creating the Future of American Postsecondary Education
-Teaching Fellow for Francesca Purcell, Fall 2020 & Fall 2022
+EVI 101: Evidence *Teaching Fellow for Carrie Conaway, Summer 2021*
 
-HGSE S040: Introductory & Intermediary Statistics for Educational Research
-Teaching Fellow for Joe McIntyre, Fall 2020
+HGSE S040: Introductory & Intermediary Statistics for Educational Research *Teaching Fellow for Joe McIntyre, Fall 2020*
+
+HGSE A701: Creating the Future of American Postsecondary Education *Teaching Fellow for Francesca Purcell, Fall 2020 & Fall 2021*
+
+A718: Redesigning Colleges & Universities for Equitable Student Success, *Teaching Fellow for Francesca Purcell, Spring 2019, Spring 2020, & Spring 2021*
